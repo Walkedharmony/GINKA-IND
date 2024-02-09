@@ -1,1 +1,6 @@
-# GINKA-IND
+## GINKA-INDONESIA
+
+##lOCALIZE INDONESIA 
+
+**Info**
+
