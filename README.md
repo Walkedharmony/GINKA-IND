@@ -10,6 +10,7 @@
 - Rating     : All Age
 - Engine     : Kirikiri Z
 - VNDB       : v38430 [VNDB](https://vndb.org/v38430)
+- Note       : Perlu diketahui ini hanya FanTL dan tidak semua diterjemahkan 
 
 **Sinopsis** 
 
@@ -24,6 +25,15 @@ Sayangnya, harapannya yang samar-samar itu hancur ketika dia mengetahui bahwa Gi
 Gadis itu tidak tahu namanya sendiri. Yang ia tahu adalah ia mencintai Ryusei.
 
 Kemana saja dia? Kenapa dia tidak bertambah tua? Akhirnya bertemu kembali dengan temannya yang telah lama hilang, Ryusei bersumpah untuk mendapatkan liburan musim panas terbaik yang pernah ada di pulau kecil yang tenang di masa kecilnya.
+
+**Include Isi Patch**
+
+- Opening Subtitle Bahasa Indonesia
+- Full Dialog Bahasa Indonesia
+- Help Windows
+![Screenshot 2024-02-24 012756](https://github.com/Walkedharmony/GINKA-IND/assets/157404664/b5435bd8-3171-47fc-b877-597c05d005f4)
+
+  
 
 **Tools Yang Dipakai** 
 
