@@ -12,6 +12,15 @@
 - VNDB       : v38430 [VNDB](https://vndb.org/v38430)
 - Note       : Perlu diketahui ini hanya FanTL dan tidak semua diterjemahkan 
 
+
+**Cara unduhnya**
+
+- Kalian pergi ke menu Released yang di dikiri jika pake windows dan dibawah sendiri jika pake android.
+- Unduh file patchnya untuk versi PC/Android.
+- Tinggal Drag And Drop ke file direktori game. 
+
+
+
 **Sinopsis** 
 
 Lima tahun yang lalu, teman masa kecil Aoba Ryusei, Shinomiya Ginka, menghilang tanpa jejak pada malam festival musim panas. Penduduk pulau yang percaya takhayul meyakini hal ini sebagai tindakan Tuhan, dan mengatakan bahwa dia "dirasuki roh."
