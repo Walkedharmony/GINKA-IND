@@ -15,7 +15,7 @@
 
 **Cara unduhnya**
 
-- Kalian pergi ke menu Released yang di dikiri jika pake windows dan dibawah sendiri jika pake android.
+- Kalian pergi ke menu Release yang di dikanan jika pake windows dan dibawah sendiri jika pake android.
 - Unduh file patchnya untuk versi PC/Android.
 - Tinggal Drag And Drop ke file direktori game. 
 
