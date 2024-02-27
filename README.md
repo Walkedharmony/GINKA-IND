@@ -10,7 +10,7 @@
 - Rating     : All Age
 - Engine     : Kirikiri Z
 - VNDB       : v38430 [VNDB](https://vndb.org/v38430)
-- Note       : Perlu diketahui ini hanya FanTL dan tidak semua diterjemahkan 
+- Note       : Perlu diketahui ini hanya FanTL mengambil terjemahan dari bahasa Inggrisnya dan mungkin berbeda dari versi Jepang. 
 
 
 **Cara unduhnya**
