@@ -3,6 +3,7 @@
 Ginka Visual Novel ID 
 </h3>
 
+
 <p align='center'>
 <a href="https://www.facebook.com/profile.php?id=100086800552053"><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&center=true&random=false&width=435&lines=Facebook+Zero+Novel" alt="Typing SVG" /></a>
 </p>
@@ -12,6 +13,9 @@ Ginka Visual Novel ID
 &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://drive.google.com/drive/folders/12qXtlLilpb0KjsxQzSsMSo-4lFJtivsQ?usp=sharing"> <img width="48" height="48" src="https://img.icons8.com/color/48/google-drive--v2.png" alt="google-drive--v2" /></a><span</span>
 </p>
+
+<p align='center'>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho_VuHlPznIUm0MYZOyaUIRmGgfhvLPG7Gm5ZGbfHPEGigB2UIHOjFWTbWG7BsvdIJivyz8YfLm0R4aoJjgSP1p_0nbbNEX69mnXAVKU803cwLHyFOnDsb5ZpmiVn5fUHOOnWs3DoSLZZDGR5rrMXbJ_w_KcHs6XMpnBWha6u4tgpVluWSI1iepCobhQA/s16000/ev009bl.png"
 
 
 <details open> 
