@@ -48,7 +48,7 @@ Ginka Visual Novel ID
 
 
 <details open> 
-  <summary><h2>Information</h2></summary> 
+  <summary><h2>Tools And Information</h2></summary> 
 
 - [krkrdump](https://github.com/crskycode/KrkrDump) 
 - [GarBRO MOD](https://github.com/crskycode/GARbro)
