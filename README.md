@@ -1,6 +1,19 @@
-## lOCALIZE INDONESIA [Twitter](https://twitter.com/localize_IDN)
+<h3 align='center'>
+Ginka Visual Novel ID 
+</h3>
 
-**Info**
+<p align='center'>
+<a href="https://www.facebook.com/profile.php?id=100086800552053"><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&center=true&random=false&width=435&lines=Facebook+Zero+Novel" alt="Typing SVG" /></a>
+</p>
+
+<p align='center'>
+<a href="https://www.facebook.com/profile.php?id=100086800552053" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+
+<details open> 
+  <summary><h2>Information</h2></summary>
 
 - Judul (JP) : GINKA
 - Judul (EN) : GINKA
@@ -10,30 +23,12 @@
 - Rating     : All Age
 - Engine     : Kirikiri Z
 - VNDB       : v38430 [VNDB](https://vndb.org/v38430)
-- Note       : Perlu diketahui ini hanya FanTL mengambil terjemahan dari bahasa Inggrisnya dan mungkin berbeda dari versi Jepang. 
-
+- Note       : Perlu diketahui ini hanya FanTL mengambil terjemahan dari bahasa Inggrisnya dan mungkin berbeda dari versi Jepang.
 
 **Cara unduhnya**
-
-- Kalian pergi ke menu Release yang di dikanan jika pake windows dan dibawah sendiri jika pake android.
+-  Kalian pergi ke menu Release yang di dikanan jika pake windows dan dibawah sendiri jika pake android.
 - Unduh file patchnya untuk versi PC/Android.
-- Tinggal Drag And Drop ke file direktori game. 
-
-
-
-**Sinopsis** 
-
-Lima tahun yang lalu, teman masa kecil Aoba Ryusei, Shinomiya Ginka, menghilang tanpa jejak pada malam festival musim panas. Penduduk pulau yang percaya takhayul meyakini hal ini sebagai tindakan Tuhan, dan mengatakan bahwa dia "dirasuki roh."
-
-Sekarang di sekolah menengah atas, Ryusei memutuskan untuk mengunjungi pulau itu selama liburan musim panas. Dia perlu tahu: Apakah Ginka pernah kembali? Mungkinkah dia menjalani kehidupan SMA yang normal?
-
-Sayangnya, harapannya yang samar-samar itu hancur ketika dia mengetahui bahwa Ginka tidak pernah terlihat lagi setelah malam itu. Dengan sedih ia bersiap untuk pergi, tapi kemudian ia bertemu dengan seorang gadis muda yang terlihat persis seperti teman masa kecilnya yang hilang- Ginka.
-
-"Selamat datang kembali, Ryusei."
-
-Gadis itu tidak tahu namanya sendiri. Yang ia tahu adalah ia mencintai Ryusei.
-
-Kemana saja dia? Kenapa dia tidak bertambah tua? Akhirnya bertemu kembali dengan temannya yang telah lama hilang, Ryusei bersumpah untuk mendapatkan liburan musim panas terbaik yang pernah ada di pulau kecil yang tenang di masa kecilnya.
+- Tinggal Drag And Drop ke file direktori game.
 
 **Include Isi Patch**
 
@@ -42,18 +37,17 @@ Kemana saja dia? Kenapa dia tidak bertambah tua? Akhirnya bertemu kembali dengan
 - Help Windows
 ![Screenshot 2024-02-24 012756](https://github.com/Walkedharmony/GINKA-IND/assets/157404664/b5435bd8-3171-47fc-b877-597c05d005f4)
 
-  
+</detail>
 
-**Tools Yang Dipakai** 
+
+<details open> 
+  <summary><h2>Information</h2></summary> 
 
 - [krkrdump](https://github.com/crskycode/KrkrDump) 
 - [GarBRO MOD](https://github.com/crskycode/GARbro)
 - [Tlg2Png](https://github.com/vn-tools/tlg2png)
 - Krkrtpc
 - SCNEDITOR
-
-**Dukungan** 
-[Trakteer](https://trakteer.id/Zeronovel)
 
 **Cara Penggunaan** 
 
@@ -89,4 +83,3 @@ Kalian kunjungi laman Github [KirikiriTools](https://github.com/arcusmaximus/Kir
 Repack folder yang sudah diterjemahkan menggunakan GarBRO yang biasa atau xp3pack di laman KirikiriTools dengan nama file harus unencrypted.xp3. 
 
 Sampai sini dulu tutorialnya jika ada kendala bisa [open issue](https://github.com/Walkedharmony/GINKA-IND/issues)
-
