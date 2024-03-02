@@ -1,3 +1,4 @@
+
 <h3 align='center'>
 Ginka Visual Novel ID 
 </h3>
@@ -7,8 +8,9 @@ Ginka Visual Novel ID
 </p>
 
 <p align='center'>
-<a href="https://www.facebook.com/profile.php?id=100086800552053" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100086800552053" target="_blank" rel="noopener noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook-new" alt="Facebook" height="30" width="40" /></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://drive.google.com/drive/folders/12qXtlLilpb0KjsxQzSsMSo-4lFJtivsQ?usp=sharing"> <img width="48" height="48" src="https://img.icons8.com/color/48/google-drive--v2.png" alt="google-drive--v2" /></a><span</span>
 </p>
 
 
@@ -24,6 +26,7 @@ Ginka Visual Novel ID
 - Engine     : Kirikiri Z
 - VNDB       : v38430 [VNDB](https://vndb.org/v38430)
 - Note       : Perlu diketahui ini hanya FanTL mengambil terjemahan dari bahasa Inggrisnya dan mungkin berbeda dari versi Jepang.
+- ALL Image  : [Google Drive](https://drive.google.com/drive/folders/12qXtlLilpb0KjsxQzSsMSo-4lFJtivsQ?usp=sharing)
 
 **Cara unduhnya**
 -  Kalian pergi ke menu Release yang di dikanan jika pake windows dan dibawah sendiri jika pake android.
