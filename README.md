@@ -32,10 +32,19 @@ Ginka Visual Novel ID
 - Note       : Perlu diketahui ini hanya FanTL mengambil terjemahan dari bahasa Inggrisnya dan mungkin berbeda dari versi Jepang.
 - ALL Image  : [Google Drive](https://drive.google.com/drive/folders/12qXtlLilpb0KjsxQzSsMSo-4lFJtivsQ?usp=sharing)
 
-**Cara unduhnya**
--  Kalian pergi ke menu Release yang di dikanan jika pake windows dan dibawah sendiri jika pake android.
-- Unduh file patchnya untuk versi PC/Android.
-- Tinggal Drag And Drop ke file direktori game.
+**UPDATE 1.0.6**
+- Version.dll update
+- Copy Paste file Indopatch.xp3 dan version.dll ke direktori game
+- Folder depedensi adalah file untuk memperbaiki jika pada saat start ginka Error
+  caranya adalah ambil file .dll dalam folder depedensi dan copy paste ke direktori game
+- Sekian terima kasih, jika ada error bisa PM atau open issue di sini 
+
+**Ini Rahasia!!!**
+
+File patch 1.0.6 bisa diunduh secara gratis dari dlsite dan aku akan kasih langsung disini agar kalian 
+bisa menikmati langsung cerita lanjutan dari GINKA ini
+[LINK PATCH](https://trial.dlsite.com/professional/files/VJ01000949/DLsite_GINKA_106patch.zip)
+
 
 **Include Isi Patch**
 
